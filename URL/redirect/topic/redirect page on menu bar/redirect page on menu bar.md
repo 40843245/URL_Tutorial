@@ -5,6 +5,13 @@ auto add an option on menu bar when right click of the link.
 
 It is very simple.
 
+## Method 1:
+
+The example file is available at
+
+https://github.com/40843245/URL_Tutorial/blob/main/URL/redirect/topic/redirect%20page%20on%20menu%20bar/redirectUrl_test1.htaccess
+
+
 Step 1:
 
 Create a new file with a .htaccess extension in the root directory of your website. If you already have an .htaccess file, skip this step. 
@@ -39,7 +46,12 @@ chatGPT is available at
     https://openai.com/blog/chatgpt/
 
 
-    
+## Method 2:
+
+The example file is available at
+
+https://github.com/40843245/URL_Tutorial/blob/main/URL/redirect/topic/redirect%20page%20on%20menu%20bar/redirectUrl_test1.html
+
 Alternatively, you can add a URL that auto-redirects to a specified URL using a meta refresh redirect in your .html file.
 
 Step 1:
