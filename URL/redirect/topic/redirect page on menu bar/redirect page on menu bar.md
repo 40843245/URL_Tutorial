@@ -40,4 +40,39 @@ chatGPT is available at
 
 
     
+Alternatively, you can add a URL that auto-redirects to a specified URL using a meta refresh redirect in your .html file.
 
+Step 1:
+
+Create a new HTML file and save it as .html.
+
+Step 2:
+
+Add the following statement to your HTML file:
+
+    <meta http-equiv="refresh" content="0; url=destination-url">
+            
+Step 3:
+
+Replace "destination-url" with the URL you want to redirect to.
+
+
+Step 4:
+
+You complete.
+
+Just to open the .html with webbrowser.
+
+It should automatically redirect to the "destination-url."
+
+
+Here are a template
+
+    <html>
+        <head>
+            <meta http-equiv="refresh" content="0; url=destination-url">
+            <!--      Design your page         -->
+        </head>
+        <body>
+        </body>
+     </html>
